@@ -1,0 +1,13 @@
+# Core Framework
+Flask==3.0.0
+
+# Testing
+pytest==8.3.5
+
+# Utilities
+python-dotenv==1.0.0
+DateTime==5.4
+uuid==1.30
+
+# Logging
+structlog==24.1.0
